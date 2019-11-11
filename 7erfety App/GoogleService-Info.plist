@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>635033892593-e80n3jn2l7jjbq6vrkf72alsqhflohnf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.635033892593-e80n3jn2l7jjbq6vrkf72alsqhflohnf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASSnArHrZzUXLDFh8UQEOIboYqO4dBgBk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>635033892593</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AhmedKassem.com.-erfety-App</string>
+	<key>PROJECT_ID</key>
+	<string>erfety-fbea6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>erfety-fbea6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:635033892593:ios:ce789cb8c14cfb67c45b50</string>
+	<key>DATABASE_URL</key>
+	<string>https://erfety-fbea6.firebaseio.com</string>
+</dict>
+</plist>
